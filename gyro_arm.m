@@ -8,7 +8,7 @@
 
 clear
 
-% Define two arduinos (ard1/com4 for robot, ard2/com3 for gyro sensor)
+% Define two arduinos (ard1/com4 for robot, ard2/com3 for accelerometer)
 
 ard1 = arduino('COM4','Uno');
 ard2 = arduino('COM3','Uno');
